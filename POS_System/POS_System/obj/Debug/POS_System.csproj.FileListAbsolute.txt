@@ -1,0 +1,12 @@
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\bin\Debug\POS_System.exe.config
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\bin\Debug\POS_System.exe
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\bin\Debug\POS_System.pdb
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.csproj.AssemblyReference.cache
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Login.resources
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Notification.resources
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Settings.resources
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.csproj.GenerateResource.cache
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.exe
+C:\Users\gavin\Documents\NSBM1\PU\IMR\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.pdb

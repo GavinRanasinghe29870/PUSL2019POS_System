@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace POS_System
 {
-    public partial class Notification : Form
+    public partial class Login : Form
     {
-        public Notification()
+        public Login()
         {
             InitializeComponent();
         }
@@ -22,12 +22,7 @@ namespace POS_System
 
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
