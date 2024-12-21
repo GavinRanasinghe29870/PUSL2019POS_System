@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace POS_System
 {
-    public partial class Settings : Form
+    public partial class Notification : Form
     {
-        public Settings()
+        public Notification()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -27,12 +22,7 @@ namespace POS_System
 
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
