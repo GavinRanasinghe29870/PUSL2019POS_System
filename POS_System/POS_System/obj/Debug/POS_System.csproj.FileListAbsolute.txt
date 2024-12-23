@@ -26,3 +26,19 @@ D:\Git Clones\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Repo
 D:\Git Clones\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.UserControls.SalesReport.resources
 D:\Git Clones\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.UserControls.CustomerActivityReport.resources
 D:\Git Clones\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.UserControls.StockMovementReport.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\bin\Debug\POS_System.exe.config
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\bin\Debug\POS_System.exe
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\bin\Debug\POS_System.pdb
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Login.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Notification.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Report.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.Settings.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.UserControls.CustomerActivityReport.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.UserControls.SalesReport.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.UserControls.StockMovementReport.resources
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.exe
+C:\Users\ASUS\Downloads\IMR notes\imr project\PUSL2019POS_System\POS_System\POS_System\obj\Debug\POS_System.pdb
